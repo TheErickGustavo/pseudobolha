@@ -1488,11 +1488,6 @@ As fontes abaixo incluem material primário e cobertura jornalística. Afirmaç�
 
 ### Fontes adicionadas na revisão profunda
 
-68. [Green & Brock — The Role of Transportation in the Persuasiveness of Public Narratives (2000), PubMed](https://pubmed.ncbi.nlm.nih.gov/11079236/). Pesquisa experimental sobre imersão narrativa, crenças consistentes com a história e atenção a inconsistências; não prova intenção manipulativa em um vídeo específico.
-69. [Kruglanski & Thompson — Informational length and order of presentation as determinants of persuasion, *Journal of Experimental Social Psychology*](https://www.sciencedirect.com/science/article/pii/S0022103104001155). Estudo sobre como extensão e complexidade da informação interagem com carga cognitiva e envolvimento do público.
-70. [U.S. Department of Justice — Federal Jury Convicts Enron Broadband Executive Kevin Howard (31 de maio de 2006)](https://www.justice.gov/archive/opa/pr/2006/May/06_crm_338.html). Fonte primária para o Projeto Braveheart, os US$ 111 milhões de receita fraudulenta e as garantias ocultas.
-
-
 24. [Epoch AI — Leading AI chip designs are used for around four years in frontier training](https://epoch.ai/data-insights/gpu-frontier-lifespan). Estimativas de duração de hardware em treinamento de modelos de fronteira.
 25. [Data Center Dynamics — AWS has “never retired” an Nvidia A100 server (5 de fevereiro de 2026)](https://www.datacenterdynamics.com/en/news/aws-has-never-retired-an-nvidia-a100-server-ceo-matt-garman-claims/). Relato das declarações da AWS sobre continuidade de uso de A100 antigos; deve ser lido como declaração de executivo.
 26. [Dallas Fed — How AI debt financing impacts duration supply and interest rates (10 de fevereiro de 2026)](https://www.dallasfed.org/research/economics/2026/0210-searls-aifinancing). Análise da oferta de duração, swaps e possíveis efeitos em mercados de títulos.
@@ -1537,11 +1532,9 @@ As fontes abaixo incluem material primário e cobertura jornalística. Afirmaç�
 65. [IMF — Generative AI and the Limits of Productivity Measurement in the System of National Accounts (2026)](https://www.elibrary.imf.org/view/journals/001/2026/201/article-A001-en.xml). Revisão de ganhos microeconómicos e diferenças entre produtividade por tarefa e produtividade agregada.
 66. [Forbes — Cisco girds for a challenging 2000 (20 de janeiro de 2000)](https://www.forbes.com/2000/01/20/feat.html), [CNN/Money — Are tech stocks finally cheap? (7 de outubro de 2002)](https://money.cnn.com/2002/10/07/pf/investing/q_earnings/index.htm), [Los Angeles Times — Cisco Tops $500 Billion in Value (23 de março de 2000)](https://www.latimes.com/archives/la-xpm-2000-mar-23-fi-11792-story.html) e [Nvidia Financial Ratios, snapshot de outubro de 2026](https://stockanalysis.com/stocks/nvda/financials/ratios/). Fontes para comparar valuation da Cisco em 2000 e métricas atuais da Nvidia, respeitando a diferença entre P/L histórico e P/L futuro.
 67. [Carlota Perez — *Technological Revolutions and Financial Capital* (2002)](https://carlotaperez.org/books/) e [The Double Bubble at the Turn of the Century (2009)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1433947). Referências para o quadro de fases de instalação e implantação das revoluções tecnológicas e suas relações com euforia financeira.
-
-
-
-
-
+68. [Green & Brock — The Role of Transportation in the Persuasiveness of Public Narratives (2000), PubMed](https://pubmed.ncbi.nlm.nih.gov/11079236/). Pesquisa experimental sobre imersão narrativa, crenças consistentes com a história e atenção a inconsistências; não prova intenção manipulativa em um vídeo específico.
+69. [Kruglanski & Thompson — Informational length and order of presentation as determinants of persuasion, *Journal of Experimental Social Psychology*](https://www.sciencedirect.com/science/article/pii/S0022103104001155). Estudo sobre como extensão e complexidade da informação interagem com carga cognitiva e envolvimento do público.
+70. [U.S. Department of Justice — Federal Jury Convicts Enron Broadband Executive Kevin Howard (31 de maio de 2006)](https://www.justice.gov/archive/opa/pr/2006/May/06_crm_338.html). Fonte primária para o Projeto Braveheart, os US$ 111 milhões de receita fraudulenta e as garantias ocultas.
 ---
 
 ## Conclusão
