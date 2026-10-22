@@ -1006,6 +1006,57 @@ A nota de contas a receber da Nvidia mostra cinco clientes diretos anónimos no 
 
 Por isso, há dois erros opostos a evitar. O vídeo não pode inferir 70% da receita a partir da composição do saldo de recebíveis; mas a defesa também não deve afirmar que a concentração desaparece porque alguns clientes são distribuidores, fabricantes de sistemas ou integradores. Intermediários podem redistribuir vendas a muitos compradores finais; também podem concentrar o risco de contas a receber, estoques, garantias e financiamento. Só uma análise conjunta dos dados de clientes diretos e indiretos permite avaliar a exposição.
 
+### 31.12 Índice de cobertura da transcrição: onde cada bloco da tese foi examinado
+
+Para tornar a revisão verificável, esta tabela mapeia os principais blocos substantivos da transcrição às seções que os analisam. Ela não trata o anúncio de Revolut como evidência da tese económica — o bloco é publicidade, não argumento sobre a bolha.
+
+| Bloco do vídeo / alegação | Onde foi examinado | Resultado da revisão |
+|---|---|---|
+| Investimento de US$ 10 trilhões, quase 3% do PIB e comparação com Apollo | 4.2–4.3; 30.1–30.2 | Projeções plurianuais e gasto anual não podem ser confundidos; comparação histórica exige metodologia comum |
+| Top 10 do S&P 500 em torno de 40%, comparação com 1965 | 4.1; 30.3 | Concentração confirmada; não prova, por si só, sobrevalorização |
+| Enron, contratos de energia, mark-to-market e lucros estimados | 5.1–5.2; 31.3 | Prática contábil não é fraude por definição; abuso e premissas sem suporte foram documentados no caso Enron |
+| Blockbuster e US$ 111 milhões de receita antecipada | 4; 19; 31.3 | Há registro judicial de fraude; era monetização de receitas futuras por uma estrutura sem substância económica, não simples lucro que deixou de ocorrer |
+| Trocas de fibra escura e lucro sobre vendas | 5.3; 31.2 | Trocas abusivas existiram, mas a aritmética ilustrativa dos US$ 9,5 milhões não corresponde à contabilidade normal |
+| SPEs/SPVs, securitização e dívidas fora do balanço | 4.4; 5.2; 19 | O risco merece investigação; SPVs legais e divulgadas não provam fraude, mas podem concentrar alavancagem e contraparte |
+| Cisco no pico pontocom | 5.4 | Preço de ação, capitalização e retorno total são medidas distintas; exemplo histórico não prevê mecanicamente o futuro |
+| Nvidia como fornecedora de chips e previsão de crescimento | 30.4 | Receita divulgada e crescimento são reais; previsão de 70% não significa duplicação, e receita não é retorno da ação |
+| Os “70%” atribuídos a OpenAI e Anthropic | 4.6; 18; 31.1 | A frase literal parece falar da receita total e seria falsa; a fonte da tela estima apenas receita associada à IA, com premissas próprias |
+| Concentração de recebíveis da Nvidia | 4.5; 18; 31.4 | Contas a receber não são receita; porém, a Nvidia divulga separadamente concentração real de receita direta/indireta |
+| Microsoft, Amazon, Google, Meta, Oracle, OpenAI, Anthropic, Nvidia e CoreWeave em contratos cruzados | 3.2; 19; 31.1 | Exposição cruzada é real; não basta para provar que todas as vendas sejam fictícias ou que toda procura seja independente |
+| CoreWeave com cerca de US$ 50 bilhões de dívida | 19; 28-D; 32 fontes | É um caso real de risco de crédito concentrado; não representa automaticamente toda a indústria de IA |
+| SoftBank e o empréstimo de US$ 40 bilhões | 23; 31.5 | O vencimento em março de 2027 é real para a facilidade específica; não é calendário uniforme de toda a dívida do setor |
+| US$ 2,5 trilhões em compromissos futuros e “dívida cinco vezes maior” | 4.4; 19 | Mistura de leases, compromissos de compra, capex e dívida precisa ser reconciliada; o total não é automaticamente dívida financeira atual |
+| Juros, emissão de títulos e competição com governos | 23 | A IA não explica todos os juros; a oferta marginal pode afetar spreads, duração e segmentos específicos do mercado |
+| US$ 10 trilhões de investimento, ferrovias, telecomunicações e cobre | 4.3; 5.3; 30.1–30.2; 31.8 | Comparações históricas úteis, mas exigem definições comparáveis; cobre e queda de outras obras não provam causalidade da IA |
+| Data centers superarem construção de escritórios; +US$ 9 bilhões versus queda em outras obras | 30.5 | Estatística de construção física é limitada e não demonstra que a IA causou a queda de todas as outras categorias |
+| Chip antigo incompatível / precisa substituir tudo | 4.10; 20; 24 | A camada de computação pode depreciar rápido, mas a infraestrutura inteira não é descartada automaticamente |
+| Depreciação estendida de 2–3 para 5–6 anos | 4.9; 20 | A alteração pode aumentar materialmente lucro contábil; não é fraude automática e deve ser confrontada com uso e valor recuperável |
+| Falta de energia e GPUs supostamente paradas em caixas | 3.3; 24–25; 30.1 | Gargalos e atrasos são reais; não há evidência pública de que toda a frota de GPUs esteja parada ou que a taxa agregada seja perto de 100% |
+| Goldman, US$ 300 bilhões para empatar e US$ 1 trilhão para “margem segura” | 4.8; 12 | Estimativa de analista depende de definição, utilização, vida útil, margens e horizonte; não é uma lei económica |
+| Receita anualizada de OpenAI/Anthropic, lucros e custos | 4.7; 18; 21; 31.1 | Run rate, receita realizada, lucro, fluxo de caixa e despesa de computação são grandezas distintas |
+| Dívida e “chacoalho” em 2027 | 12; 21.3; 31.5 | Há vencimentos e compromissos importantes, mas a data de uma facilidade do SoftBank não prova default sistémico |
+| Modelos chineses abertos, eficiência, custo e popularidade | 6; 11; 26 | Eficiência e competição são reais; “popularidade” exige métrica e modelos abertos continuam a ter custos de hardware e operação |
+| China, capacidade elétrica e integração industrial | 6.4; 26 | Pode haver vantagens industriais; capacidade nacional agregada não equivale a energia conectada a cada data center |
+| Alegação de que IA precisa tornar empregos obsoletos para valer trilhões | 12; 31.7 | É uma falsa dicotomia: valor pode vir de complementar trabalhadores e expandir mercados, mas o fornecedor precisa capturar receita suficiente |
+| IA “parou de melhorar significativamente” | 8–9; 31.9 | Generalização ampla demais; progresso e rendimentos decrescentes podem coexistir |
+| Medo de IA, consciência, invasões e proibição de concorrentes chineses | 7; 27; 31.9 | Incidentes reais em contexto de avaliação, mas sem evidência apresentada de encenação deliberada ou consciência |
+| AlphaFold, matemática, Navier–Stokes, 722 manuscritos e Willow | 9.2–9.4 | Há avanços reais; cada alegação requer precisão sobre validação e atribuição causal |
+| Identificação de vulnerabilidades em PHP | 9.5; 27 | Aplicação prática relevante, com colaboração e divulgação responsável; não significa prevenção universal de ataques |
+| “40% do tempo poupado foi gasto a corrigir IA” | 10; 14 | Resultado de pesquisa sobre determinados usuários/contextos, não regra para todo modelo e não prova que o efeito desapareceu em janeiro de 2026 |
+| Ganhos de produtividade de 600% e demos virais (jogos, engenharia reversa) | 10–11; 14 | Exemplos podem demonstrar capacidade em tarefas delimitadas; sem custo, qualidade, manutenção e comparação de base não medem produtividade líquida ou retorno do capex |
+| Bitcoin como analogia | 14 | A sobrevivência de Bitcoin não demonstra que qualquer ativo esteja bem avaliado; IA e criptoativo têm modelos económicos distintos |
+| Patrocínio Revolut | Não usado como evidência da tese | É bloco publicitário e não foi tratado como argumento factual sobre a bolha da IA |
+
+### 31.13 Retrabalho, prompting e modelos novos: o que se pode afirmar, e o que a pesquisa não mostra
+
+A pesquisa de 2025/2026 segundo a qual usuários gastariam cerca de 40% do tempo economizado corrigindo resultados de IA não permite atribuir todo o retrabalho a “prompts ruins”. A medida mistura, conforme o estudo, percepção de economia de tempo e tempo gasto em correção; ela não isola de maneira universal a contribuição de instruções mal formuladas, limitações do modelo, contexto insuficiente, integração ruim, revisão exigida pela tarefa ou erro genuíno de raciocínio.
+
+O contrário também é verdadeiro: esse estudo não demonstra que os melhores modelos de outubro de 2026 tenham o mesmo nível de retrabalho que modelos de 2024 ou 2025. A melhoria de modelos e de ferramentas pode reduzir parte do problema; o uso de contexto, decomposição de tarefas, testes, ferramentas e especificações claras também pode aumentar a taxa de sucesso. Mas não é possível afirmar que o problema desapareceu para todos em janeiro de 2026 sem um estudo longitudinal comparável com as mesmas tarefas, os mesmos usuários e critérios de qualidade.
+
+A expressão “não cometa erros” tornou-se objeto de crítica porque uma instrução negativa genérica não substitui objetivos claros, critérios de aceitação, contexto e verificação. Isso não significa que o modo correto de usar a IA seja apenas “promptar melhor”: a responsabilidade de reduzir erros também pertence ao desenho do produto, à confiabilidade do modelo, ao contexto que ele recebe, às ferramentas disponíveis e aos mecanismos de teste. Bons prompts podem melhorar desempenho; não transformam uma saída probabilística em uma garantia.
+
+Do mesmo modo, demos virais de jogos em navegador, engenharia reversa ou emulação são evidência de que a IA pode ajudar a gerar código, compreender interfaces e reconstruir comportamentos em casos delimitados. Elas não provam, sozinhas, que um produto está completo, sem bugs, legalmente redistribuível, seguro ou economicamente rentável. Para transformar a demo em medida de produtividade, é preciso conhecer o trabalho humano envolvido, o tempo total, a taxa de erros, o escopo implementado e o custo de manutenção.
+
 ## 32. Fontes principais e leituras recomendadas
 
 As fontes abaixo incluem material primário e cobertura jornalística. Afirmações comerciais de fornecedores devem ser lidas como dados divulgados pelos próprios fornecedores; estimativas de analistas são cenários dependentes de suas hipóteses.
