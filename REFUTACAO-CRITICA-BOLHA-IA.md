@@ -588,14 +588,16 @@ As fontes abaixo incluem material primário e cobertura jornalística. Afirmaç�
 
 ### Ciência, matemática, hardware e segurança
 
-12. [Google DeepMind / Google — AlphaFold 3 (8 de maio de 2024)](https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/). Previsão de estruturas e interações de moléculas.
-13. [Google — Bringing the magic: Google breaks open a bottleneck in quantum computing (15 de outubro de 2026)](https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/). Resultado de correção de erros quânticos em hardware Willow.
-14. [OpenAI — On the Navier–Stokes Millennium Prize Problem (8 de setembro de 2026)](https://openai.com/index/navier-stokes-solution/). Proposta e formalização anunciadas pela empresa; o reconhecimento matemático exige escrutínio próprio.
-15. [Nature — OpenAI claims huge maths breakthrough on a famed ‘Millennium Problem’ (8 de setembro de 2026)](https://www.nature.com/articles/d41586-026-02842-5). Cobertura jornalística de uma alegação matemática extraordinária.
-16. [SSRN — Who Solved It? Aggregation Bias and the Empty-Library Paradox in OpenAI's 722-Manuscript Mathematics Release (outubro de 2026)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7607840). Auditoria preliminar que questiona atribuição e novidade; não deve ser tratada como avaliação definitiva de todos os manuscritos.
-17. [OpenAI — Patch the Planet: global response coordination as agents uncover critical vulnerabilities (21 de outubro de 2026)](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/). Relato de trabalho em vulnerabilidades de PHP e coordenação de divulgação.
-18. [DeepSeek — Introducing DeepSeek-V4.1-Flash (10 de setembro de 2026)](https://www.deepseek.com/en/news/deepseek-v4-1-flash/). Fonte primária sobre arquitetura e anúncio do modelo.
-
+13. [Google DeepMind / Google — AlphaFold 3 (8 de maio de 2024)](https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/). Previsão de estruturas e interações de moléculas.
+14. [Google — Bringing the magic: Google breaks open a bottleneck in quantum computing (15 de outubro de 2026)](https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/). Resultado de correção de erros quânticos em hardware Willow.
+15. [OpenAI — On the Navier–Stokes Millennium Prize Problem (8 de setembro de 2026)](https://openai.com/index/navier-stokes-solution/). Proposta e formalização anunciadas pela empresa.
+16. [Clay Mathematics Institute — Navier-Stokes Announcement (11 de setembro de 2026)](https://www.claymath.org/news/navier-stokes-announcement/). Declaração oficial: o problema aparentemente foi resolvido, mas a avaliação do resultado e o processo do prêmio são deliberadamente demorados.
+17. [Clay Mathematics Institute — Navier-Stokes Equation](https://www.claymath.org/millennium/Navier-Stokes-Equation/). Página oficial do problema, consultada em 22 de outubro de 2026; ainda o marcava como “Active”.
+18. [OpenAI — Math repository README](https://github.com/openai/math/blob/main/README.md) e [histórico de revisões e retiradas](https://github.com/openai/math/blob/main/history.md). Fonte primária que identifica os 722 manuscritos, 372 famílias de problemas e os estágios de verificação; registra correções e retiradas.
+19. [Nature — OpenAI claims huge maths breakthrough on a famed ‘Millennium Problem’ (8 de setembro de 2026)](https://www.nature.com/articles/d41586-026-02842-5). Cobertura jornalística da alegação matemática.
+20. [SSRN — Who Solved It? Aggregation Bias and the Empty-Library Paradox in OpenAI's 722-Manuscript Mathematics Release (outubro de 2026)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7607840). Auditoria preliminar que questiona atribuição e novidade; não deve ser tratada como avaliação definitiva de todos os manuscritos.
+21. [OpenAI — Patch the Planet: global response coordination as agents uncover critical vulnerabilities (21 de outubro de 2026)](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/). Relato de trabalho em vulnerabilidades de PHP e coordenação de divulgação responsável.
+22. [DeepSeek — Introducing DeepSeek-V4.1-Flash (10 de setembro de 2026)](https://www.deepseek.com/en/news/deepseek-v4-1-flash/). Fonte primária sobre arquitetura e anúncio do modelo.
 ---
 
 ## Conclusão
