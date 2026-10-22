@@ -18,6 +18,8 @@ A melhor crítica ao vídeo não é “a IA é útil, logo não existe bolha”.
 
 É o próprio precedente da internet que torna essa distinção importante. A infraestrutura da bolha pontocom continuou útil, mas muitos investidores e empresas sofreram perdas. Portanto, dizer que a IA será útil não prova que os investimentos atuais terão retorno; por outro lado, provar que há sobreinvestimento não demonstra que a tecnologia seja inútil ou que a indústria desaparecerá.
 
+A nova auditoria também compara a história da nuvem, Amazon, smartphones, fracking, streaming e eletrificação. O padrão que emerge não é “todas as previsões de bolha estavam erradas”: algumas críticas tecnológicas falharam, mas várias dessas histórias envolveram perdas financeiras, falências ou sobreinvestimento ao mesmo tempo que a tecnologia triunfou. Isso torna as analogias históricas úteis para testar mecanismos, mas fracas como profecias de resultados inevitáveis. O documento também desenvolve a IA como tecnologia de propósito geral, a lógica de investir em infraestrutura antes de toda a receita existir, o papel de CIOs/CFOs e a diferença entre valor de uso, rentabilidade empresarial e valorização das ações.
+
 ### Síntese do diagnóstico
 
 | Tese ou recurso do vídeo | Avaliação |
