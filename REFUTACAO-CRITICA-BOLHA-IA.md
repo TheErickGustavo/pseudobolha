@@ -1172,6 +1172,37 @@ Há uma base económica para esse argumento. O trabalho de Brynjolfsson, Rock e 
 
 Isso não é um salvo-conduto para qualquer nível de capex. O investimento tem de ser decidido com cenários de procura, preço, vida útil e custo de capital. A questão não é se o capital precisa preceder a receita — frequentemente precisa —, mas **quanta capacidade deve ser construída antes de a incerteza sobre a procura e a economia unitária diminuir**.
 
+### O mercado não começou literalmente do zero em 2022 — o que mudou foi o tamanho e a natureza da procura
+
+É melhor formular o argumento como “a IA generativa criou e ampliou mercados que antes não existiam nessa escala” do que dizer que não existia nenhum mercado de IA. Antes de 2022, já havia investimentos enormes em aprendizado de máquina, recomendação de conteúdo, publicidade direcionada, tradução automática, visão computacional, reconhecimento de fala, robótica, detecção de fraude e computação científica. Já existiam chips de aceleração, GPUs para treinamento, plataformas de cloud AI e serviços de machine learning.
+
+O salto de 2022–2023 foi a popularização de modelos fundacionais capazes de gerar texto, código, imagens e outras saídas por uma interface geral, acessível a milhões de pessoas e integrável a processos empresariais. O aumento subsequente do uso de ferramentas de programação, assistentes, modelos multimodais e agentes criou categorias de procura muito mais amplas. Isto é uma mudança real de escala e de interface, não a criação literal de inteligência artificial do nada.
+
+Essa distinção fortalece a argumentação: não se trata apenas de deslocar gasto de um mercado antigo para outro, mas de capitalizar uma gama de novos usos. Ela também evita uma resposta fácil de um crítico: “IA já existia há décadas”. Sim, mas a existência de IA anterior não invalida a novidade do mercado atual de IA generativa, tal como a existência de computadores antes da nuvem não anulou o surgimento de um mercado de cloud em grande escala.
+
+### Carlota Perez: o ciclo de instalação e implantação explica por que tecnologia e bolha podem coexistir
+
+A estrutura teórica associada a Carlota Perez é especialmente útil para este debate. Em *Technological Revolutions and Financial Capital* (2002), Perez descreve revoluções tecnológicas como processos em que uma fase de instalação pode envolver grande mobilização de capital, euforia financeira e expansão acelerada da infraestrutura; um ponto de virada pode vir acompanhado de correção e regulação; a fase de implantação ocorre quando a tecnologia se difunde de modo mais amplo pela economia produtiva. A autora não oferece uma lei determinista com calendário fixo, mas um quadro interpretativo para compreender a relação entre capital financeiro e revolução tecnológica. Ver [a página bibliográfica da autora](https://carlotaperez.org/books/) e o artigo [The Double Bubble at the Turn of the Century](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1433947).
+
+Essa teoria não prova que a IA esteja numa bolha, nem garante que uma correção será benigna. Mas oferece um quadro que é mais nuançado do que “a bolha prova que a tecnologia é uma fraude”: em uma revolução tecnológica, pode haver excesso de investimento na fase de instalação e, ainda assim, a infraestrutura e a tecnologia continuarem a gerar produtividade na fase posterior.
+
+A interpretação pertinente para IA seria: pode existir um ciclo de investimento com excesso de capital, avaliações exageradas e falências, ao mesmo tempo que a tecnologia continua a melhorar e encontra aplicações cada vez mais amplas depois da correção. Essa possibilidade está mais próxima do que a história da internet ensina do que uma narrativa em que “se houver bolha, a IA não vale nada”.
+
+A teoria também não deve ser utilizada como argumento circular. Não basta afirmar que toda revolução tem uma bolha e, portanto, toda queda seria inevitável; tampouco basta dizer que toda revolução continua depois do estouro e, portanto, os investidores atuais terão retorno. A teoria explica mecanismos possíveis, não substitui o exame de preços, contratos, fluxo de caixa e cronograma de adoção.
+
+### Previsões repetidas desde 2023: “vai estourar” não é uma previsão completa sem data e critério
+
+A repetição do termo “bolha da IA” desde 2023 pode dar a impressão de que os céticos erraram simplesmente porque o mercado continuou a crescer. Mas é necessário perguntar exatamente o que foi previsto. Há pelo menos três afirmações diferentes:
+- “As ações ou avaliações estão excessivamente caras hoje.”
+- “O investimento em determinada infraestrutura excederá a demanda rentável no futuro.”
+- “O mercado sofrerá uma queda de magnitude X até uma data específica.”
+
+A primeira é uma avaliação de preço e pode permanecer verdadeira mesmo que o mercado suba por algum tempo; ela deve ser testada contra lucros, fluxo de caixa, crescimento e múltiplos. A segunda é uma previsão sobre capacidade, utilização e retorno. A terceira é uma previsão temporal que pode ser confrontada com o desfecho observado.
+
+Quando alguém diz apenas que “a bolha vai estourar”, sem indicar prazo, métrica e magnitude, é difícil avaliar se a previsão falhou, foi adiada ou foi formulada de forma que nunca pudesse ser refutada. Por outro lado, a ausência de um colapso imediato não demonstra que as avaliações sejam racionais: uma sobrevalorização pode persistir durante anos, e os fundamentos podem crescer ou não o suficiente para a justificar.
+
+A resposta mais forte, portanto, não consiste em contar quantas vezes “a bolha” foi anunciada. Consiste em exigir previsões mensuráveis e registrar se se concretizaram: que variável cairá, em que horizonte, de quanto para quanto, por qual mecanismo de financiamento, e com que consequências para empresas solventes, laboratórios privados, fornecedores de hardware e veículos de infraestrutura. Sem isso, o termo “bolha” pode funcionar como manchete sensacionalista tanto quanto como hipótese financeira séria.
+
 ### Quatro razões pelas quais investir antes da receita pode ser racional
 
 1. **Demanda com restrição de capacidade.** Clientes já pedem mais capacidade do que existe, e uma empresa pode perder contratos se esperar até haver receita realizada suficiente para cada unidade adicional.
@@ -1376,6 +1407,7 @@ As fontes abaixo incluem material primário e cobertura jornalística. Afirmaç�
 23. [DeepSeek — Introducing DeepSeek-V4.1-Flash (10 de setembro de 2026)](https://www.deepseek.com/en/news/deepseek-v4-1-flash/). Fonte primária sobre arquitetura e anúncio do modelo.
 
 ### Fontes adicionadas na revisão profunda
+67. [Carlota Perez — *Technological Revolutions and Financial Capital* (2002)](https://carlotaperez.org/books/) e [The Double Bubble at the Turn of the Century (2009)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1433947). Referências para o quadro de fases de instalação e implantação das revoluções tecnológicas e suas relações com euforia financeira.
 
 52. [Gartner — Public Cloud Sustains Momentum Despite Repatriation Hype (6 de agosto de 2026)](https://www.gartner.com/en/documents/8236293) e [Public Cloud Repatriation Remains the Exception, Not the Rule (29 de abril de 2025)](https://www.gartner.com/en/documents/6398775). Fontes para distinguir repatriação seletiva de abandono generalizado da nuvem.
 53. [Amazon — resultados do quarto trimestre e do ano fiscal de 2025](https://www.aboutamazon.com/news/company-news/amazon-earnings-q4-2025-report). Receita, lucro operacional, fluxo de caixa e capex da AWS/Amazon.
