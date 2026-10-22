@@ -411,7 +411,7 @@ O problema é transformar sem ressalva uma comparação de benchmarks em “mesm
 
 Uma pontuação próxima em um benchmark de programação não garante equivalência em pesquisa de longa duração, qualidade de escrita, visão, matemática, segurança, confiabilidade ou operação autônoma. Um modelo local pode ser a melhor escolha para uma empresa e ainda ficar atrás em outras tarefas.
 
-Quanto ao Qwen 3.8 27B citado pelo usuário: há referências públicas de terceiros a esse nome e comparações recentes com Claude Opus 4.6, mas a equivalência ampla não deve ser apresentada como fato sem identificar a ficha técnica oficial, a versão exata, o hardware, a quantização e uma avaliação comparável. A afirmação merece ser verificada por testes próprios e reproduzíveis.
+Quanto ao Qwen3.8-27B citado pelo usuário: a checagem atual confirma um [repositório oficial do time Qwen no GitHub](https://github.com/AlibabaCloud-Official/Qwen3.8-27B) e os pesos na [página oficial do modelo no Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B). A ficha descreve um modelo denso multimodal de 27 bilhões de parâmetros, janela nativa de 262 mil tokens e licença Apache 2.0, com suporte a execução por ferramentas locais como Transformers e vLLM. Portanto, a existência do modelo e a possibilidade de executá-lo localmente não devem ser tratadas como mera alegação de terceiros. A afirmação de que seu desempenho é semelhante ao Claude Opus 4.6 continua exigindo escopo: em qual benchmark, tarefa, configuração, quantização, orçamento de raciocínio e hardware? A paridade em avaliações ou tarefas específicas não significa equivalência geral em programação, matemática, multimodalidade, segurança, confiabilidade ou agentes de longa duração.
 
 Quanto ao DeepSeek-V4.1-Flash, há uma publicação oficial da própria DeepSeek em setembro de 2026. A arquitetura de especialistas esparsos pode reduzir o número de parâmetros ativos por token, mas isso não significa que o peso total do modelo desapareça da memória. É necessário distinguir eficiência de inferência de requisito total para execução local.
 
@@ -597,7 +597,8 @@ As fontes abaixo incluem material primário e cobertura jornalística. Afirmaç�
 19. [Nature — OpenAI claims huge maths breakthrough on a famed ‘Millennium Problem’ (8 de setembro de 2026)](https://www.nature.com/articles/d41586-026-02842-5). Cobertura jornalística da alegação matemática.
 20. [SSRN — Who Solved It? Aggregation Bias and the Empty-Library Paradox in OpenAI's 722-Manuscript Mathematics Release (outubro de 2026)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7607840). Auditoria preliminar que questiona atribuição e novidade; não deve ser tratada como avaliação definitiva de todos os manuscritos.
 21. [OpenAI — Patch the Planet: global response coordination as agents uncover critical vulnerabilities (21 de outubro de 2026)](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/). Relato de trabalho em vulnerabilidades de PHP e coordenação de divulgação responsável.
-22. [DeepSeek — Introducing DeepSeek-V4.1-Flash (10 de setembro de 2026)](https://www.deepseek.com/en/news/deepseek-v4-1-flash/). Fonte primária sobre arquitetura e anúncio do modelo.
+22. [Qwen — repositório oficial do Qwen3.8-27B](https://github.com/AlibabaCloud-Official/Qwen3.8-27B) e [página de modelo no Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B). Fontes primárias para os parâmetros, a licença e as opções de execução local do Qwen3.8-27B.  
+23. [DeepSeek — Introducing DeepSeek-V4.1-Flash (10 de setembro de 2026)](https://www.deepseek.com/en/news/deepseek-v4-1-flash/). Fonte primária sobre arquitetura e anúncio do modelo.
 ---
 
 ## Conclusão
