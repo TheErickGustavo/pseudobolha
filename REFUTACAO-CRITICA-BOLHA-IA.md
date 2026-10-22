@@ -849,7 +849,61 @@ A conclusão metodológica desta revisão é deliberadamente mais restrita: há 
 
 ---
 
-## 30. Fontes principais e leituras recomendadas
+## 30. Auditoria adicional da transcrição: projetos, S&P 500, Nvidia e construção civil
+
+Esta revisão final cobre quatro números que aparecem nas telas do vídeo e que não devem ser tratados nem como invenção total nem como prova suficiente do cenário de colapso.
+
+### 30.1 Os “47 projetos” e os “35% viáveis” não são a mesma estatística
+
+A matéria do *Financial Times* de outubro de 2026 tem o título [America’s $10tn AI infrastructure boom is starting to fray](https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c). O resumo disponível informa que pelo menos 47 grandes projetos de data centers nos EUA foram atrasados, retirados ou bloqueados durante 2026, segundo o levantamento da RegLayer. Também atribui a analistas da Bernstein a avaliação de que apenas cerca de 35% da capacidade planejada da pipeline americana seria viável ou crível.
+
+Esses dois números têm unidades diferentes: **47 é uma contagem de grandes projetos afetados; 35% é uma estimativa sobre a viabilidade da capacidade planejada**, e não necessariamente a constatação de que exatamente 65% de todos os projetos já foram cancelados. O percentual é uma estimativa de analistas sobre um pipeline de projetos anunciados; não é uma medição de instalações em operação e tampouco uma previsão de que 65% do investimento total será perdido.
+
+A notícia sustenta a afirmação de que o pipeline divulgado é maior que a capacidade que provavelmente entrará em operação no prazo planejado. Isso é relevante para retorno de investimento, contratos e fornecedores de energia. O salto indevido seria inferir que a procura por IA não existe, que a infraestrutura toda está condenada ou que os projetos restantes não terão uso. Projetos podem atrasar, mudar de localização, ser reestruturados ou entrar em operação mais tarde. A distinção central é entre capacidade anunciada, capacidade financiada, capacidade em construção, capacidade energizada e capacidade vendida a clientes.
+
+### 30.2 O “boom de US$ 10 trilhões” é um horizonte de investimento, não um gasto já executado
+
+O título do *Financial Times* descreve um boom de infraestrutura de IA de US$ 10 trilhões. O vídeo também alterna entre uma soma de investimentos projetados até 2032, a fração anual do PIB e o gasto executado em 2026. Essas grandezas não são intercambiáveis.
+
+Uma projeção de investimento acumulado ao longo de vários anos pode ser muito alta sem que esse montante tenha sido gasto, financiado ou contratado por inteiro no presente. Além disso, a cifra depende de como o analista define “infraestrutura de IA” — prédios, redes, chips, servidores, energia, resfriamento, equipamentos e eventuais compromissos podem ter coberturas diferentes. Para validar o superlativo “maior investimento concentrado da história”, a comparação histórica precisa usar o mesmo tipo de despesa, período, base de preços e denominador do PIB.
+
+A expressão “quase 3% do PIB está sendo investida nisso” deve especificar se é gasto anual de capital, investimento em termos anualizados ou proporção acumulada num horizonte de vários anos. Percentual do PIB anual não pode ser comparado diretamente com o total acumulado de um programa histórico sem normalização. Esse ponto não derruba o alerta: mostra que os números grandes precisam ser acompanhados de definições consistentes.
+
+### 30.3 A concentração do S&P 500 é um fato; ela não prova por si só uma bolha
+
+Aqui a transcrição está apoiada por uma fonte sólida. A própria S&P Dow Jones Indices publicou em maio de 2026 a análise [In the Shadows of Giants](https://www.spglobal.com/spdji/en/research/article/in-the-shadows-of-giants/), dizendo que as dez maiores empresas representavam quase 40% do índice em meados de 2025, uma concentração não vista desde meados dos anos 1960. A página atual do índice também mostra que o peso exato oscila com os preços: a tabela consultada para agosto de 2026 apresentava 37,8% para as dez maiores. Isso mostra por que todo percentual deve vir acompanhado da data.
+
+A comparação histórica com 1965 também é real, embora a composição das dez maiores fosse muito diferente. A concentração pode criar risco de queda simultânea e de dependência do desempenho de poucas empresas. Não é, por si só, prova de sobrevalorização: para isso, seria necessário comparar preços, lucros, fluxos de caixa e expectativas. Uma empresa grande pode ser cara, barata ou razoavelmente avaliada; seu tamanho não responde à pergunta.
+
+### 30.4 A Nvidia: crescimento de vendas extraordinário, mas cuidado com a previsão de 2027
+
+A divulgação da Nvidia do segundo trimestre do ano fiscal de 2027 registrou receita de US$ 96,2 bilhões, alta de 106% em relação ao ano anterior, e receita de data centers de US$ 89,0 bilhões, alta de 117%. A própria empresa publicou os números em [seu comunicado de resultados de 26 de agosto de 2026](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027).
+
+A cobertura jornalística citada no vídeo reportou que a Nvidia previa crescimento de receita de aproximadamente 70% para o próximo ano fiscal. Isso é um crescimento extraordinário, mas não é a mesma coisa que “quase dobrar novamente”: uma alta de 70% implica multiplicar a receita por 1,7, enquanto duplicar implicaria 100%. A narração alterna “lucro”, “vendas” e “receita” de modo pouco rigoroso. A evidência mais limpa é receita trimestral divulgada pela empresa e projeção de vendas reportada pela imprensa; não se deve trocar uma métrica por outra.
+
+Esses resultados sustentam duas conclusões importantes: existe demanda comercial massiva por computação de data centers, e a Nvidia tem forte concentração no ciclo de investimento em IA. Eles não demonstram que o ritmo continuará indefinidamente, que os clientes finais terão margem suficiente para pagar, ou que a ação da Nvidia esteja corretamente avaliada. Crescimento de vendas e retorno ao preço pago pela ação são questões distintas.
+
+### 30.5 “Data centers foram o único investimento que cresceu” precisa de escopo e de causalidade bem definida
+
+A Bloomberg reportou que o gasto de construção de data centers nos EUA superou o gasto com escritórios em dezembro de 2025: cerca de US$ 3,57 bilhões em data centers contra US$ 3,49 bilhões em escritórios. A própria reportagem esclarece que a estatística do Census Bureau **não inclui racks e servidores**; ela mede construção física, não o investimento completo em capacidade computacional. Fonte: [Bloomberg — Data Centers Overtake Offices in US Construction-Spending Shift](https://www.bloomberg.com/news/articles/2026-03-16/data-centers-overtake-offices-in-us-construction-spending-shift).
+
+Isso sustenta a importância crescente da construção de data centers e a concentração relativa da atividade. Mas a frase do vídeo segundo a qual o setor “sugou” mão de obra e dinheiro e cresceu “no lugar do resto” é uma hipótese causal mais forte que a observação de que uma categoria subiu enquanto outras caíram. Para demonstrar deslocamento econômico, seria necessário estimar o que teria acontecido à construção, aos salários, à disponibilidade de mão de obra e ao investimento privado na ausência do boom de data centers, além de verificar os períodos e categorias usados na comparação.
+
+A distinção importa também porque os dados de construção física não capturam diretamente a compra de chips e servidores, que pode ser contabilizada separadamente e representar grande parte do capex das empresas. Um aumento da construção de data centers não é a mesma coisa que um aumento equivalente do investimento total em hardware, e nenhum dos dois prova sozinho que os demais tipos de construção diminuíram por causa da IA.
+
+### 30.6 Balanço desses dados adicionais
+
+Os números sobre projetos atrasados, investimento planejado, concentração de mercado e crescimento da Nvidia são, em grande parte, indicadores reais. O problema do roteiro não é simplesmente “usar dados falsos”; é muitas vezes encadear um fato válido, uma estimativa de analistas e uma inferência causal como se tivessem todos o mesmo grau de certeza.
+
+- O dado do S&P 500 mostra concentração; não prova uma bolha.
+- A contagem de projetos afetados mostra risco de execução; não prova que a capacidade toda não será utilizada.
+- O percentual de capacidade considerada crível é uma estimativa; não é um inventário de perdas já realizadas.
+- O crescimento da Nvidia é evidência de demanda atual; não é garantia de rentabilidade futura para todo comprador de chips.
+- O gasto de construção de data centers é crescente; isso não prova que tenha causado toda a queda em outras categorias.
+
+Essa é a forma correta de criticar o vídeo: manter os fatos sólidos, exigir os denominadores e as premissas das estimativas, e recusar o salto de risco plausível para colapso inevitável.
+
+## 31. Fontes principais e leituras recomendadas
 
 As fontes abaixo incluem material primário e cobertura jornalística. Afirmações comerciais de fornecedores devem ser lidas como dados divulgados pelos próprios fornecedores; estimativas de analistas são cenários dependentes de suas hipóteses.
 
@@ -886,6 +940,11 @@ As fontes abaixo incluem material primário e cobertura jornalística. Afirmaç�
 23. [DeepSeek — Introducing DeepSeek-V4.1-Flash (10 de setembro de 2026)](https://www.deepseek.com/en/news/deepseek-v4-1-flash/). Fonte primária sobre arquitetura e anúncio do modelo.
 
 ### Fontes adicionadas na revisão profunda
+
+42. [Financial Times — America’s $10tn AI infrastructure boom is starting to fray (outubro de 2026)](https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c). Levantamento de grandes projetos atrasados/retirados/bloqueados e avaliação da viabilidade de parte da pipeline.
+43. [S&P Dow Jones Indices — In the Shadows of Giants (13 de maio de 2026)](https://www.spglobal.com/spdji/en/research/article/in-the-shadows-of-giants/). Dados históricos de concentração das dez maiores empresas no S&P 500.
+44. [Nvidia — resultados do segundo trimestre do ano fiscal de 2027 (26 de agosto de 2026)](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027). Receita divulgada de US$ 96,2 bilhões e dados de data centers.
+45. [Bloomberg — Data Centers Overtake Offices in US Construction-Spending Shift (16 de março de 2026)](https://www.bloomberg.com/news/articles/2026-03-16/data-centers-overtake-offices-in-us-construction-spending-shift). Comparação da construção física de data centers com escritórios; exclui racks e servidores.
 
 39. [Where’s Your Ed At — Dead Money (29 de setembro de 2026)](https://www.wheresyoured.at/dead-money/). Fonte da estimativa opinativa de US$ 183 bilhões em receita anual ligada à IA para um conjunto de cinco empresas, com US$ 118,2 bilhões atribuídos a OpenAI e Anthropic; o texto explicita que algumas cifras são estimativas próprias.
 40. [Reuters — Anthropic logged net loss of over $80 billion in first half of 2026 (20–21 de outubro de 2026)](https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/) e [The Wall Street Journal — Anthropic S-1 Shows Red-Hot Growth, Risks and Massive Computing Costs](https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1). Fontes sobre receita, gasto em computação/infraestrutura, encargo contábil e compromissos da Anthropic.
